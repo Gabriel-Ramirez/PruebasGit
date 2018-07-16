@@ -1,1 +1,2 @@
-Archivo de prueba de Git 
+#Curso de Git Profesional
+Archivo de prueba de Git
